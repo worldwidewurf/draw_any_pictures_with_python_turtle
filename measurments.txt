@@ -1,0 +1,15 @@
+girl with a pearl earring 
+    hight  80
+    weight 40
+
+monalisa
+    height 87
+    width  58
+
+obama 
+    height 100
+    width  100
+
+einstein
+    height 173
+    width  139
